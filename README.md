@@ -13,15 +13,18 @@ Users should be able to:
 ### Screenshot
 
 > Desktop screenshot
+
   ![](./screenshots/desktop.png)
-> Tabalet screenshot
+> Tablet screenshot
+
   ![](./screenshots/tablet.png)
 > Mobile screenshot
+
   ![](./screenshots/mobile.png)
 
 ### Links
 
-- Live Site URL: [GitHub Pages ](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://bilel-mwihbi.github.io/Four-card-feature-section/)
 
 ## Author
 
